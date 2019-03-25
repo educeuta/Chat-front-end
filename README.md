@@ -1,10 +1,11 @@
-# front
+# Chat front-end
 
 > A Vue.js project
 
 ## Build Setup
 
 ``` bash
+# download repository
 git clone https://github.com/educeuta/chat-front-end.git
 cd chat-back-end
 
