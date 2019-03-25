@@ -5,6 +5,9 @@
 ## Build Setup
 
 ``` bash
+git clone https://github.com/educeuta/chat-front-end.git
+cd chat-back-end
+
 # install dependencies
 npm install
 
